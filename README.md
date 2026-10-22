@@ -1,2 +1,2 @@
 # Global-Superstore-Analysis
-Power BI dashboard analyzing global trade trends and sector growth metrics.
+This Global Superstore Analysis dashboard delivers an executive-level summary total revenue and profits. It maps sales performance across major global markets, highlighting Western Europe as a leading region alongside seasonal monthly sales trends. The report segments customer demand across Consumer, Corporate, and Home Office categories while profiling top product sub-categories. It tracks supply chain efficiency, showing an average delivery turnaround time and orders shipped via Standard Class.
